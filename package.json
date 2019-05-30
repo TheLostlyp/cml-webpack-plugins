@@ -1,0 +1,13 @@
+{
+  "name": "cml-webpack-plugins",
+  "version": "1.0.0",
+  "description": "chameleon webpack plugin",
+  "main": "/",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheLostlyp/cml-webpack-plugins.git"
+  },
+  "author": "hupo-front-end-team",
+  "license": "Apache"
+}
