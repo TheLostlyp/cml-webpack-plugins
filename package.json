@@ -1,12 +1,15 @@
 {
-  "name": "cml-webpack-plugins",
-  "version": "1.0.0",
+  "name": "@hp/cml-webpack-plugins",
+  "version": "1.0.2",
   "description": "chameleon webpack plugin",
   "main": "/",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/TheLostlyp/cml-webpack-plugins.git"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.hupovip.cn/repository/hp-npm/"
   },
   "author": "hupo-front-end-team",
   "license": "Apache"
